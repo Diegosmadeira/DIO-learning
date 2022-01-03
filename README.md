@@ -1,2 +1,3 @@
 # DIO-learning
-A  learning place
+
+## Welcome there! Take a look and lets get better!
